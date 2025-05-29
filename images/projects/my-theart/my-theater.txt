@@ -1,0 +1,4 @@
+git:
+https://github.com/faridafaqiri/project
+live:
+https://faridafaqiri.github.io/project/

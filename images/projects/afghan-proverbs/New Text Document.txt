@@ -1,0 +1,3 @@
+https://faridafaqiri.github.io/Afghan-Proverbs-Website/
+source: 
+https://github.com/faridafaqiri/Afghan-Proverbs-Website
